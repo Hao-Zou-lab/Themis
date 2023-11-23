@@ -1,0 +1,34 @@
+Package: Themis
+Title: Tumor HEterogeneity analysis on Molecular subtypIng System
+Version: 1.0.0.1
+Authors@R: 
+    person("Yue", "Xi", , "xiyue15180289980@163.com", role = c("aut", "cre"))
+Description: An evaluation platform for tumor molecular subtyping methods.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ConsensusClusterPlus,
+    dplyr,
+    fmsb,
+    ggplot2,
+    ggpubr,
+    ggradar,
+    ggtree,
+    GSEABase,
+    GSVA,
+    limma,
+    MCPcounter,
+    NMF,
+    pheatmap,
+    proxy,
+    reshape2,
+    Rtsne,
+    scales,
+    sparcl,
+    survival,
+    survminer,
+    tibble
+Depends: 
+    tidyverse
