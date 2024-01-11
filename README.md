@@ -35,8 +35,8 @@ devtools::install_github("ebecht/MCPcounter",ref="master", subdir="Source")
 install.packages("Themis_1.0.0.1.tar.gz", repos = NULL, type = "source")
 
 # Preparatory Work
-Download the required files from data in the current interface:
-1. Download the test data file from the pan.baidu.com website (https://pan.baidu.com/s/1dzFwCWckp6Ml6dgkqaJ1tA?pwd=g8le) or the drive.google.com website (https://drive.google.com/file/d/1PITMtvaEsaQFT10vROtQ4uHApXimvCWe/view?usp=sharing).
+Get the required data ready:
+1. The reformatted TCGA and GEO data presented in the paper is available upon request with the proper license.
 2. Set the working directory and create a "sum data" folder under it. The sum data folder stores three files: data_meta_sum.RData, tcga_meta_sum.RData, all_pvalue_sum.RData. As shown in the following figure:
    ![figure1](https://github.com/Hao-Zou-lab/Themis/assets/115384996/99f3524a-c9b6-4fc3-9f80-07e77e41bb02)
 3. clusterFile: When the user has a custom method, apply it to the directory where the resulting subtyping result file is stored after the platform has existing data. The file naming format is “your method’s name_test data’s name_ cluster.txt”. As shown in the following figure:
