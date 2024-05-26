@@ -1,5 +1,6 @@
 # Themis
-![logo](https://github.com/Hao-Zou-lab/Themis/assets/115384996/d133fcff-374a-4710-b832-9712d7231c2f)
+![logo](https://github.com/Hao-Zou-lab/Themis/assets/115384996/d133fcff-374a-4710-b832-9712d7231c2f) ![graphical_abstract](https://github.com/Hao-Zou-lab/Themis/assets/115384996/269ad9a2-536f-4fb7-8ad4-3db9788a2755)
+
 
 Tumor HEterogeneity analysis on Molecular subtypIng System
 # Install associated packages
