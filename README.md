@@ -55,7 +55,7 @@ devtools::install_github ("ricardo-bion/ ggradar ",dependencies = TRUE,force = T
 devtools::install_github("ebecht/MCPcounter",ref="master", subdir="Source")
 
 # Installation Themis
-Installing scSTAR from github: download the file 'Themis_1.0.0.2.tar.gz' and install the package from the local path.
+Installing Themis from github: download the file 'Themis_1.0.0.2.tar.gz' and install the package from the local path.
 
 # Preparatory Work
 Get the required data ready:
